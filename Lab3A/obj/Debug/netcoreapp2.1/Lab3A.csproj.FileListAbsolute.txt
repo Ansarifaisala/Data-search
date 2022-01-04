@@ -1,0 +1,11 @@
+C:\Users\firoz ansari\source\repos\Lab3A\Lab3A\bin\Debug\netcoreapp2.1\Lab3A.deps.json
+C:\Users\firoz ansari\source\repos\Lab3A\Lab3A\bin\Debug\netcoreapp2.1\Lab3A.runtimeconfig.json
+C:\Users\firoz ansari\source\repos\Lab3A\Lab3A\bin\Debug\netcoreapp2.1\Lab3A.runtimeconfig.dev.json
+C:\Users\firoz ansari\source\repos\Lab3A\Lab3A\bin\Debug\netcoreapp2.1\Lab3A.dll
+C:\Users\firoz ansari\source\repos\Lab3A\Lab3A\bin\Debug\netcoreapp2.1\Lab3A.pdb
+C:\Users\firoz ansari\source\repos\Lab3A\Lab3A\obj\Debug\netcoreapp2.1\Lab3A.csprojAssemblyReference.cache
+C:\Users\firoz ansari\source\repos\Lab3A\Lab3A\obj\Debug\netcoreapp2.1\Lab3A.csproj.CoreCompileInputs.cache
+C:\Users\firoz ansari\source\repos\Lab3A\Lab3A\obj\Debug\netcoreapp2.1\Lab3A.AssemblyInfoInputs.cache
+C:\Users\firoz ansari\source\repos\Lab3A\Lab3A\obj\Debug\netcoreapp2.1\Lab3A.AssemblyInfo.cs
+C:\Users\firoz ansari\source\repos\Lab3A\Lab3A\obj\Debug\netcoreapp2.1\Lab3A.dll
+C:\Users\firoz ansari\source\repos\Lab3A\Lab3A\obj\Debug\netcoreapp2.1\Lab3A.pdb
